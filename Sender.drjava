@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/server/ServerThread.java" package="src.server" timestamp="21-Jan-2014 22:33:45">
+        <select from="400" to="400"/>
+        <scroll column="350" row="0"/>
+      </file>
+      <file name="src/server/Server.java" package="src.server" timestamp="21-Jan-2014 22:23:11">
+        <select from="400" to="400"/>
+        <scroll column="350" row="0"/>
+      </file>
+      <file name="src/client/Bubble.java" package="src.client" timestamp="21-Jan-2014 22:28:35">
+        <select from="400" to="400"/>
+        <scroll column="350" row="0"/>
+      </file>
+      <file name="src/client/Client.java" package="src.client" timestamp="22-Jan-2014 14:40:49">
+        <select from="400" to="400"/>
+        <scroll column="350" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
